@@ -1,2 +1,2 @@
 # hunterdquant.github.io
-My personal website.
+Now redirects to my domain.
