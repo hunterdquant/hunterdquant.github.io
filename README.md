@@ -1,2 +1,2 @@
 # hunterdquant.github.io
-Now redirects to my domain.
+A work in progress
